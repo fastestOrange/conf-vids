@@ -1,0 +1,6 @@
+{
+	"name":"video-browser",
+	"main":"video-browser-server.js",
+	"browser":"video-browser.js",
+	"template": "video-browser.marko"
+}

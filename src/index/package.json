@@ -1,0 +1,5 @@
+{
+	"name":"index",
+	"main": "index-server.js",
+	"browser":"index-client.js"
+}
